@@ -1,0 +1,93 @@
+.nav   {
+    background-color:#ffffff;
+    font-family:Arial, "helvetica Neau", Helvetica, sans-serif;
+}
+    
+.nav-item {
+    color:gray;
+    font-family:Arial, "helvetica Neau", Helvetica, sans-serif;
+
+}
+.nav-link {
+    color: gray;
+    font-family:Arial, "helvetica Neau", Helvetica, sans-serif;
+    line-height: 50px;
+
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 56px;
+    margin-left: 20px;
+}
+.main-section {
+    font-family: Arial, "Helvetica Neau", Helvetica, Sans-serif;
+    background-color: #ffffff;
+    border: 2px;
+    border-color: #dddddd;
+    border-style: solid;
+    padding: 20px;
+    color: #777777;
+    margin: auto;
+    margin-top: 75px;
+
+}
+
+h1 {
+    color: #4aaaa5;
+    border-bottom: 1.5px solid #cccccc;
+    font-size: 24px;
+    font-family: "Georgia, 'Times New Roman', Times, serif"
+}
+
+.auth-image {
+    float:left;
+    margin-right: 20px;
+
+}
+.aboutme {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.work {
+    margin-top: 40px;
+    
+}
+
+.portfolioimage {
+    position: relative;
+}
+
+h3 {
+    position: absolute;
+    z-index: 3;
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
+    line-height: 50px;
+    height: 50px;
+    bottom:0;
+    left: 74px;
+    width: fluid;
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background: #666666;
+    border-top: solid 8px #4aaaa5;
+  }
+  
+.copyright {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+    background: #666666;
+}
