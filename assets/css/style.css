@@ -33,10 +33,13 @@
 }
 
 .navbar-toggler-icon {
-    background-color:#4aaaa5;
+    border: 1px solid gray;
 }
 
+.navbar-collapse {
+    flex-grow: 0;
 
+}
 .main-section {
     font-family: Arial, "Helvetica Neau", Helvetica, Sans-serif;
     background-color: #ffffff;
