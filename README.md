@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - [Description](#Description)
-- [Technologies/Libraries](#Technologies-Libraries)
+- [Technologies-Libraries](#Technologies-Libraries)
 - [Screenshots](#Screenshots)
 - [Link](#Link)
 
