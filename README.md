@@ -15,9 +15,11 @@ A mobile responsive portfolio to showcase my coding work and let visitors know a
 ### Screenshots
 
 * Full Screen
+
 ![Image](assets/images/fullscreen.png)
 
 * Mobile Responsive
+
 ![Image](assets/images/smallscreen.png)
 
 ### Link
